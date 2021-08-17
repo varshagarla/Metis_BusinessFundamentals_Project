@@ -1,4 +1,4 @@
-# Business Project Minimum Viable Product (MVP)
+# Minimum Viable Product (MVP)
 
 ## Data Science for Good: Combating Sexual Violence in NYC
 

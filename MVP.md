@@ -11,9 +11,9 @@ As such, the enduring concerns of NYC law enforcement and victim advocacy groups
 ### Impact Hypothesis:
 The impact hypothesis is that by analyzing patterns of sexual violence complaints reported to the NYPD, we can develop a model to identify factors related to high prevalence of sexual violence (such as borough, victim age group, time of occurrence, etc.).
 
-**Primary Impact:** The primary desired impact is to identify strong predictors of sexual violence cases in NYC so that the NYPD and Safe Horizon can focus the attention of their actions/initiatives to prevent sexual violence most effectively. For example, they can target a campaign towards the most vulnerable victim group so that they are aware of their heightened risk and take extra precautions to stay vigilant. Additionally, the NYPD could increase officer presence in high-risk areas. [insert success metric]
+**Primary Impact:** The primary desired impact is to identify strong predictors of sexual violence cases in NYC so that the NYPD and Safe Horizon can focus the attention of their actions/initiatives to prevent sexual violence most effectively. For example, they can target a campaign towards the most vulnerable victim group so that they are aware of their heightened risk and take extra precautions to stay vigilant. Additionally, the NYPD could increase officer presence in high-risk areas.
 
-**Secondary Impact:** The secondary desired impact is to identify which boroughs/locations require additional Safe Horizon counseling sites to support victims based on the prevalence of sexual violence cases. [insert success metric]
+**Secondary Impact:** The secondary desired impact is to identify which boroughs/locations require additional Safe Horizon counseling sites to support victims based on the prevalence of sexual violence cases.
 
 ### Solution:
 My first proposed solution path is to develop an interpretable linear regression model that will identify factors that increase the risk of sexual violence cases.
@@ -27,10 +27,8 @@ This assumes that the trends in reported sex crimes do not differ from trends in
 * Tools: MS Excel for data cleaning and exploratory data analysis, Tableau for data visualizations
 
 ### Preliminary Viz/Insights:
-[insert visualizations here]
+![image](https://user-images.githubusercontent.com/87044440/129921449-fb4872d3-0aa9-455f-9df1-015d6e74cd11.png)
 
+![image](https://user-images.githubusercontent.com/87044440/129921500-617cc0fb-1a9f-4793-8d58-e19509fc1cc2.png)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/87044440/129921543-8b430b1c-b007-4f14-9f78-b386a6292f01.png)

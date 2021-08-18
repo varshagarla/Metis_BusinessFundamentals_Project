@@ -22,9 +22,9 @@ My first proposed solution path is to develop an interpretable linear regression
 This assumes that the trends in reported sex crimes do not differ from trends in all sex crimes, reported and unreported.
 
 ### Methodology (Data & Tools):
-* Dataset: NYPD Crime Complaint Data Historic (years TBD, most likely 2017-2020, years will be adjusted depending on number of rows of data and Google Sheets capacity), focusing on rape and sex crime offenses
+* Dataset: NYPD Crime Complaint Data Historic, decade of 2010-2019, focusing on rape and sex crime offenses
 * Example features: BORO_NM (borough name), VIC_AGE_GROUP (victim age group), VIC_RACE (victim race), RPT_DT (date event was reported to police), Latitude, Longitude
-* Tools: Google Sheets for data cleaning and exploratory data analysis, Tableau for data visualizations
+* Tools: MS Excel for data cleaning and exploratory data analysis, Tableau for data visualizations
 
 ### Preliminary Viz/Insights:
 [insert visualizations here]
